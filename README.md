@@ -17,7 +17,8 @@
 - Machine Learning
 - Data Science
 - Deep Learning
-- Natural Language Processing  - Computer Vision
+- Natural Language Processing
+- Computer Vision
 - Generative Adversarial Networks
 - Data Cleaning
 - Data Analysis
