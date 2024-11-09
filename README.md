@@ -11,16 +11,13 @@
 - Experienced in delivering predictive models and solutions by extracting insights from complex data through thorough analysis and synthesis, including data compression and reconstruction.
  Passionate about delivering data-driven solutions to drive impactful results.
 
-- 📫 How to reach me: Kaghamoh@uwo.ca
-
 
 ### 🖥 Skills
 
 - Machine Learning
 - Data Science
 - Deep Learning
-- Natural Language Processing
-- Computer Vision
+- Natural Language Processing  - Computer Vision
 - Generative Adversarial Networks
 - Data Cleaning
 - Data Analysis
