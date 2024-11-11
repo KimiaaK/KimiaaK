@@ -22,19 +22,12 @@
 
 ### 🖥 Skills
 
-- Machine Learning
-- Data Science
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Generative Adversarial Networks
-- Data Cleaning
-- Data Analysis
-- Transfer Learning
-- Image Segmentation
-- Object Detection
-- Pattern Recognition
-- Reinforcement Learning 
+- Machine Learning (Unsupervised Learning, Natural Language Processing, Reinforcement Learning, Deep Learning, Transfer Learning)
+- Data Science (Data Cleaning, Databases, Data Analysis)
+- Computer Vision (Image Segmentation, Object Detection, Generative Adversarial Networks)
+
+
+  
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Oracle-05122A?style=flat-square&logo=Oracle&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-XGBoost-05122A?style=flat-square&logo=XGBoost&color=353535) ![Bootstrap](https://img.shields.io/badge/-OpenAI-05122A?style=flat-square&logo=OpenAI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) ![Bootstrap](https://img.shields.io/badge/-HuggingFace-05122A?style=flat-square&logo=HuggingFace&color=353535) ![Bootstrap](https://img.shields.io/badge/-OpenCV-05122A?style=flat-square&logo=OpenCV&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535) ![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535) ![Bootstrap](https://img.shields.io/badge/-ETL%20%20-05122A?style=flat-square&logo=ETL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat-square&logo=Amazon-Web-Services&color=353535) ![Bootstrap](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=Azure&color=353535) ![Bootstrap](https://img.shields.io/badge/-CUDA-05122A?style=flat-square&logo=CUDA&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535)
