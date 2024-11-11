@@ -11,6 +11,8 @@
 - Experienced in delivering predictive models and solutions by extracting insights from complex data through thorough analysis and synthesis, including data compression and reconstruction.
  Passionate about delivering data-driven solutions to drive impactful results.
 
+<div> <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="KimiaaK" /> </div>
+
 
 ### 🖥 Skills
 
