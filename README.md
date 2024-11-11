@@ -13,7 +13,7 @@
 
 
 
-<div> <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="KimiaaK" /> </div>
+<div> <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" /> <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="KimiaaK" /> </div>
 
 
 
