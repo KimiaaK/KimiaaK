@@ -12,6 +12,12 @@
 
 
 <div> <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" /> 
+  
+</div>
+
+<div>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 </div>
 
 
