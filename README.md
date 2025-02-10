@@ -7,7 +7,7 @@
 
 - 💻 Machine Learning Engineer with experience developing and deploying ML models using Python and PyTorch in various industries (Agriculture, Color Synthesis, 3D Printing, and Carbon Black Production). 
 - Proficient in handling imbalanced data, generating synthetic images, optimizing model performance, and automating processes. 
-- Experienced in delivering predictive models and solutions by extracting insights from complex data through thorough analysis and synthesis, including data compression and reconstruction.
+- Experienced in delivering predictive models and solutions by extracting insights from complex data thorough analysis and synthesis, including data compression and reconstruction.
 
 
 
