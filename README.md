@@ -15,7 +15,6 @@
   
 </div>
 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=KimiaaK&layout=compact&hide=html)
 
 
 
