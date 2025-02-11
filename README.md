@@ -29,7 +29,7 @@
 
 - Machine Learning 
 - Generative AI
-- Data Science 
+- Data Analysis 
 - Computer Vision 
 
 
