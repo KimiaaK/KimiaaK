@@ -11,9 +11,8 @@
 
 
 
-<center>
-  <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" /> 
-</center>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" style="display: block; margin: auto;" />
+
   
 
 
