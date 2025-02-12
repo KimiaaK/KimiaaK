@@ -11,13 +11,8 @@
 
 
 
-<table width="100%" height="100%">
-    <tr>
-        <td align="center" valign="middle">
-            <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" />
-        </td>
-    </tr>
-</table>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" style="display: block; margin: auto;" />
+
 
   
 
