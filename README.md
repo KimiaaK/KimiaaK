@@ -10,7 +10,7 @@
 - Experienced in delivering predictive models and solutions by extracting insights from complex data thorough analysis and synthesis, including data compression and reconstruction.
 
 
-<img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" /> 
+               <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiaaK&show_icons=true&locale=en&layout=compact" alt="KimiaaK" /> 
   
 
 
